@@ -42,7 +42,7 @@ poutcome
 y (target variable)
 
 
-Tasks
+# Tasks
 
 1. Data Exploration
 Analyze the dataset and check for missing values.
@@ -64,15 +64,3 @@ Identify the least useful feature using the feature elimination technique by tra
 Train a regularized logistic regression with different values of parameter C and evaluate the accuracy on the validation set.
 Instructions
 
-Download and Unzip Dataset:
-bash
-Copy code
-wget https://archive.ics.uci.edu/static/public/222/bank+marketing.zip
-unzip bank+marketing.zip
-Run the Code: The solution can be found in the ML_Zoom Camp Hmwk 3.py file, where each task is implemented step by step.
-Dependencies:
-Python 3.x
-pandas
-scikit-learn
-matplotlib
-seaborn
