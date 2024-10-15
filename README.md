@@ -12,20 +12,36 @@ Features Used
 The following columns from the dataset are used:
 
 age
+
 job
+
 marital
+
 education
+
 balance
+
 housing
+
 contact
+
 day
+
 month
+
 duration
+
 campaign
+
 pdays
+
 previous
+
 poutcome
+
 y (target variable)
+
+
 Tasks
 
 1. Data Exploration
